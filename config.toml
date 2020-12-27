@@ -1,0 +1,56 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ke Nie"
+theme = "paper"
+hasCJKLanguage = true
+# sectionPagesMenu = "main"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    title = "home"
+    url = "/"
+    weight = -140
+
+  [[menu.main]]
+    identifier = "research"
+    name = "Research"
+    title = "research"
+    url = "/research/"
+    weight = -130
+
+  [[menu.main]]
+    identifier = "teaching"
+    name = "Teaching"
+    title = "teaching"
+    url = "/teaching/"
+    weight = -120
+
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    title = "cv"
+    url = "../files/KeNie_CV.pdf"
+    weight = -110
+
+  [[menu.main]]
+    identifier = "sc"
+    name = "中文"
+    title = "sc"
+    url = "/sc/"
+    weight = -100
+
+[params]
+    instagramLink = "http://instagram.com/norzvic/"
+
+    facebookLink = "http://facebook.com/ke.nie.37/"
+
+    twitterLink = "http://twitter.com/keniesoc/"
+
+    soundcloudLink = "https://soundcloud.com/keniejimiproject/"
+    
+    mailLink = "mailto:knie@ucsd.edu"
+    
+
