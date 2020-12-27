@@ -1,4 +1,4 @@
-baseURL = "http://keniewebtest.netlify.app/"
+baseURL = "https://keniewebtest.netlify.app/"
 languageCode = "en-us"
 title = "Ke Nie"
 theme = "paper"
