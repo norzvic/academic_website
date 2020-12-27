@@ -53,6 +53,8 @@ hasCJKLanguage = true
     
     mailLink = "mailto:knie@ucsd.edu"
 
-    css = ["css/custom.css"]
+ 
+
+    
     
 
