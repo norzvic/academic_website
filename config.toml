@@ -52,5 +52,7 @@ hasCJKLanguage = true
     soundcloudLink = "https://soundcloud.com/keniejimiproject/"
     
     mailLink = "mailto:knie@ucsd.edu"
+
+    css = ["css/custom.css"]
     
 
