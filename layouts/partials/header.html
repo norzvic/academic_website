@@ -87,6 +87,7 @@
     </script>
     <header class="header">
       <nav class="nav">
+      <!-- <nav class="nav fixed-top"> -->
         {{- if .IsHome }}
         <h1 class="logo"><a href="{{ "" | absURL }}">{{ .Site.Title }}</a></h1>
         {{- else }}
@@ -102,5 +103,6 @@
         </ul>
         {{- end }}
       </nav>
+    <hr>
     </header>
     <main class="main">

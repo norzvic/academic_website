@@ -145,6 +145,9 @@ img {
 -------------------------------------------------- */
 .nav {
   display: flex;
+  /* flex-direction: row; */
+  /* position: fixed; */
+  /* top: 0;  */
   flex-wrap: wrap;
   justify-content: space-between;
   max-width: calc(var(--nav-width) + var(--gap) * 2);
@@ -184,6 +187,7 @@ img {
   max-width: calc(var(--main-width) + var(--gap) * 2);
   margin-left: auto;
   margin-right: auto;
+  /* top: var(--header-height); */
   padding: var(--gap);
 }
 .page-header {
