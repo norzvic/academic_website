@@ -29,7 +29,8 @@ type: "mylayout"
 
 | 新闻报道及公共写作选摘 |
 |---|
-| [冲进世界杯的 Pussy Riot：以“破坏”开始，未以“破坏”结束](https://theinitium.com/article/20180825-opinion-nieke-pussyriot-punk/)，2018年 8 月 25 日刊于端传媒 |
+| [纪念傅聪：一段艺术与政治的冲突史](https://theinitium.com/article/20210103-opinion-fou-tsong/)，2021 年 1 月 3 日刊于端传媒 |
+| [冲进世界杯的 Pussy Riot：以“破坏”开始，未以“破坏”结束](https://theinitium.com/article/20180825-opinion-nieke-pussyriot-punk/)，2018 年 8 月 25 日刊于端传媒 |
 | [声音背后的身份政治](http://weekly.caixin.com/2017-03-17/101067187.html)，2017 年 3 月 20 日刊于《财新周刊》 |
 | [2016年逝去的这些音乐人与中国：东西方流行音乐的碰撞](https://www.thepaper.cn/newsDetail_forward_1596060)，2017 年 1 月 10日刊于澎湃新闻 |
 | [电影评分真的会影响大众吗？](http://cnpolitics.org/2016/12/critical_reviews/), 2016 年 12 月 29 日刊于政见 |
