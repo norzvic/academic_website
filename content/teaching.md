@@ -8,23 +8,30 @@ draft: false
 
 * AY 19-20 [Outstanding TA of the Year](https://sociology.ucsd.edu/graduate/grad-announcements.html), Sixth College Writing Program (Culture, Art, and Technology), University of California, San Diego.
 
-### Teaching
+### Teaching Assistant
 
-* FA20-21 Classical Sociological Theory, Teaching Assistant, UC San Diego
+##### University of California, San Diego
 
-* SS19-20 Science, Technology, and Society, Teaching Assistant, UC San Diego
+* WI20-21 Law & Society
 
-* AY19-20 Sixth College Writing Program: Culture, Art, and Technology, Teaching Assistant, UC San Diego
+* FA20-21 Classical Sociological Theory
 
-* SP18-19  Social Inequality and Social Policy, Teaching Assistant, UC San Diego
+* SS19-20 Science, Technology, and Society
 
-* WI18-19 Economy and Society, Teaching Assistant, UC San Diego
+* AY19-20 Sixth College Writing Program: Culture, Art, and Technology
 
-* FA12-13 Introduction to Journalism, Teaching Assistant, Peking University
+* SP18-19 Social Inequality and Social Policy
 
-### Research Assistantship
+* WI18-19 Economy and Society
 
-* Chinese Law and Society (directed by Prof. Kwai Ng), Research Assistant, UC San Diego
+##### Peking University
 
-* Fiscal Democracy Project (directed by Prof. Isaac W. Martin), Research Assistant, UC
-San Diego
+* FA12-13 Introduction to Journalism
+
+### Research Assistant
+
+##### University of California, San Diego
+
+* Chinese Law and Society, directed by Prof. Kwai Ng
+
+* Fiscal Democracy Project, directed by Prof. Isaac W. Martin
