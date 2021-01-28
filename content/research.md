@@ -7,7 +7,7 @@ draft: false
 ### Working Papers
 
 Nie, K. Disperse and Preserve the Perverse: Computing How Hip-Hop Censorship Changed Popular Music Production in China (Under R&R in *[Poetics](https://www.journals.elsevier.com/poetics)*)\.
-[[Abstract]](/posts/hiphop_censorship_computational/) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3761413)
+[[Abstract]](/posts/hiphop_censorship_computational/) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3761413) [[Appendices]](/files/Nie_HipHopCensorship_Appendices.pdf)
 
 Nie, K. Cultural Consumption as Compensatory Strategy of Cultural Capital: Evidence from Chinese
 General Social Survey\.
