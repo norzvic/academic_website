@@ -15,7 +15,7 @@ Feel free to reach out to me at knie[at]ucsd.edu.
 | Education |
 |---|
 | 2023 (exp.), PhD in Sociology, University of California, San Diego |
-| 2020, MA in Sociology, University of California, San Diego |
+| 2021, MA in Sociology, University of California, San Diego |
 | 2014, MA in Journalism, Peking University |
 | 2012, BA in German Literature, Peking University |
 | 2012, BA in Economics, Peking University |
