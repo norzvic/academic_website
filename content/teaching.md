@@ -12,7 +12,9 @@ draft: false
 
 ##### University of California, San Diego
 
-* WI20-21 Law & Society
+* SP20-21 Gender and Work
+
+* WI20-21 Law and Society
 
 * FA20-21 Classical Sociological Theory
 
