@@ -17,10 +17,11 @@ General Social Survey\.
 
 ### Work in Progress
 
-Nie, K. Does the internet foster cultural diversity and creativity? A mixed-methods comparative study of
-the music markets in the Japan, China, and the US.
+Nie, K. Bowing to five pecks of rice? The impact of economic incentives on cultural diversity and creativity. (Proposal accepted by *[Chinese Sociological Review](https://www.tandfonline.com/toc/mcsa20/current)*)\.
 
-Nie, K. Embracing Censorship: Why Musicians Welcome Music Regulation.
+Nie, K. Embracing Censorship: Why Musicians Welcome Music Regulation. (Proposal accepted by *[Chinese Journal of Sociology](https://journals.sagepub.com/home/chs)*)\.
+
+Nie, K. Does the internet foster cultural diversity and creativity? A mixed-methods comparative study of the music markets in the Japan, China, and the US.
 
 Zhang, B., & Ke Nie. Homeownership and Social Reproduction: New Evidences from PTA data.
 
