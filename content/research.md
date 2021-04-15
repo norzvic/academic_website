@@ -6,6 +6,9 @@ draft: false
 
 ### Working Papers
 
+Nie, K. Bowing to five pecks of rice? The impact of economic incentives on cultural diversity and creativity. (Proposal accepted by *[Chinese Sociological Review](https://www.tandfonline.com/toc/mcsa20/current)*)
+[[Request]](mailto:knie@ucsd.edu)
+
 Nie, K. Disperse and Preserve the Perverse: Computing How Hip-Hop Censorship Changed Popular Music Production in China. (Under R&R in *[Poetics](https://www.journals.elsevier.com/poetics)*)
 [[Abstract]](/posts/hiphop_censorship_computational/) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3761413) [[Appendices]](/files/Nie_HipHopCensorship_Appendices.pdf)
 
@@ -16,8 +19,6 @@ General Social Survey\.
 <br/>
 
 ### Work in Progress
-
-Nie, K. Bowing to five pecks of rice? The impact of economic incentives on cultural diversity and creativity. (Proposal accepted by *[Chinese Sociological Review](https://www.tandfonline.com/toc/mcsa20/current)*)
 
 Nie, K. Embracing Censorship: Why Musicians Welcome Music Regulation. (Proposal accepted by *[Chinese Journal of Sociology](https://journals.sagepub.com/home/chs)*)
 
