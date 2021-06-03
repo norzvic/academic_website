@@ -7,7 +7,7 @@ type: "mylayout"
 
 ###
 
-我叫聂可，现在在[加州大学圣迭戈分校（University of California, San Diego）攻读社会学博士](https://sociology.ucsd.edu/people/graduate-students/ke-nie.html)。我的研究主要是用定量和定性的混合方法分析文化市场和文艺政策是如何塑造文化生产和消费的。例如，我最近的一篇正在审稿的文章运用音乐信息检索（Music Information Retrieval）等计算科学的一些技术研究[2018年的嘻哈音乐审查是如何改变了中国的流行音乐生产的](/posts/hiphop_censorship_computational/)。我的博士论文将会关注音乐产业的数字化进程是如何影响了中国、日本和美国等地流行音乐生产中的多样性（diversity）和创新性（creativity）的。
+我叫聂可，现在在[加州大学圣迭戈分校（University of California, San Diego）攻读社会学博士](https://sociology.ucsd.edu/people/graduate-students/ke-nie.html)。我的研究主要是用定量和定性的混合方法分析文化市场和文艺政策是如何塑造文化生产和消费的。例如，我即将发表在[Poetics](https://www.journals.elsevier.com/poetics)的一篇文章运用音乐信息检索（Music Information Retrieval）等计算科学的一些技术研究[2018年的嘻哈音乐审查是如何改变了中国的流行音乐生产的](/posts/hiphop_censorship_computational/)。我的博士论文将会关注音乐产业的数字化进程是如何影响了中国、日本和美国等地流行音乐生产中的多样性（diversity）和创新性（creativity）的。
 
 我的学术经历比较丰富：2012年在北京大学[外国语学院](https://sfl.pku.edu.cn/index.htm)和[国家发展研究院](https://nsd.pku.edu.cn/)获得了德语语言文学和经济学双学士之后，我转到[新闻与传播学院](http://sjc.pku.edu.cn/)攻读新闻学，并在2014年获得新闻学学术型硕士学历。社会学算是我的第四个“专业”，但我的研究兴趣始终围绕着政治经济环境下的文化生产与消费这一主题。
 
