@@ -3,7 +3,7 @@ title: ""
 date: 2020-12-23T14:08:51-08:00
 draft: false
 ---
-### Disperse and Preserve the Perverse: Computing How Hip-Hop Censorship Changed Popular Music Production in China
+### Disperse and Preserve the Perverse: Computing How Hip-Hop Censorship Changed Popular Music Genres in China
 
 #### Ke Nie, Department of Sociology, University of California, San Diego
 
