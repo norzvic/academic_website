@@ -5,7 +5,7 @@ draft: false
 ---
 
 ### Publications
-Nie, Ke. Forthcoming. "Disperse and Preserve the Perverse: Computing How Hip-Hop Censorship Changed Music Genres in China." (Accepted and forthcoming in *[Poetics: Journal of Empirical Research on Culture, the Media, and the Arts](https://www.journals.elsevier.com/poetics)*) [[Abstract]](/posts/hiphop_censorship_computational/) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3761413) [[Appendices]](/files/Nie_HipHopCensorship_Appendices.pdf)
+Nie, Ke. 2021. "Disperse and Preserve the Perverse: Computing How Hip-Hop Censorship Changed Music Genres in China." *Poetics: Journal of Empirical Research on Culture, the Media, and the Arts*. [[Abstract]](/posts/hiphop_censorship_computational/) [[Full article (OA)]](https://www.sciencedirect.com/science/article/pii/S0304422X21000802?dgcid=rss_sd_all#sec0012)
 
 ### Working Papers
 
