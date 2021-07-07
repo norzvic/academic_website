@@ -9,7 +9,7 @@ Nie, Ke. 2021. "Disperse and Preserve the Perverse: Computing How Hip-Hop Censor
 
 ### Working Papers
 
-Nie, Ke. "Bowing to Five Pecks of Rice? The Impact of Economic Incentives on Cultural Creativity." (Proposal accepted and manuscript submitted to *[Chinese Sociological Review](https://www.tandfonline.com/toc/mcsa20/current)*)
+Nie, Ke. "Bowing to Five Pecks of Rice? The Impact of Economic Incentives on Cultural Creativity." (R&R at *[Chinese Sociological Review](https://www.tandfonline.com/toc/mcsa20/current)*)
 [[Request]](mailto:knie@ucsd.edu)
 
 Nie, Ke. "Embracing Censorship: Why Musicians Welcome Music Regulation." (Proposal accepted by *[Chinese Journal of Sociology](https://journals.sagepub.com/home/chs)*)
