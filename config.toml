@@ -49,11 +49,17 @@ hasCJKLanguage = true
 
     twitterLink = "http://twitter.com/keniesoc/"
 
-    soundcloudLink = "https://soundcloud.com/keniejimiproject/"
+    soundcloudLink = "http://soundcloud.com/keniejimiproject/"
     
     mailLink = "mailto:knie@ucsd.edu"
 
-    googlescholarLink = "https://scholar.google.com/"
+    googlescholarLink = "http://scholar.google.com/citations?user=QnFE3sgAAAAJ&hl=en&oi=sra"
+
+    academiaLink = "http://cnn.academia.edu/kenie?from_navbar=true"
+
+    researchgateLink = "http://www.researchgate.net/profile/Ke-Nie-4"
+
+    orcidLink = "http://orcid.org/my-orcid?orcid=0000-0001-8816-5376"
 
  
 

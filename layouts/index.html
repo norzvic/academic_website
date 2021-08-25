@@ -12,12 +12,13 @@
   <div style="text-align: center;" >
   <img src="/img/nieke.png" height="140px" width="140px" style="margin: 0 auto;" />
   </br>
-  <a href="{{ .Site.Params.mailLink }}"><box-icon name='mail-send' color='#636363' size="md" ></box-icon></a>
-  <a href="{{ .Site.Params.facebookLink }}"><box-icon name='facebook' type='logo' color='#636363' size="md" ></box-icon></a>
-  <a href="{{ .Site.Params.instagramLink }}"><box-icon name='instagram' type='logo' color='#636363' size="md" ></box-icon></a>
-  <a href="{{ .Site.Params.twitterLink }}"><box-icon name='twitter' type='logo' color='#636363' size="md" ></box-icon></a>
-  <a href="{{ .Site.Params.soundcloudLink }}"><box-icon name='soundcloud' type='logo' color='#636363' size="md" ></box-icon></a>
-
+  <a href="{{ .Site.Params.googlescholarLink }}"><span style = "color:#636363"><i class="ai ai-google-scholar ai-2x"></i></span></a>
+  &nbsp
+  <a href="{{ .Site.Params.academiaLink }}"><span style = "color:#636363"><i class="ai ai-academia ai-2x"></i></span></a>
+  &nbsp
+  <a href="{{ .Site.Params.researchgateLink }}"><span style = "color:#636363"><i class="ai ai-researchgate ai-2x"></i></span></a>
+  &nbsp
+  <a href="{{ .Site.Params.orcidLink }}"><span style = "color:#636363"><i class="ai ai-orcid ai-2x"></i></span></a>
 </div>
   <div class="post-content">{{ .Content }}</div>
   <!-- {{- if .Params.tags }}

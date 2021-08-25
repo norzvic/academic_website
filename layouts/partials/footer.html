@@ -1,5 +1,12 @@
 </main>
 <footer class="footer">
+  <div style="text-align: center;" >
+    <a href="{{ .Site.Params.mailLink }}"><box-icon name='mail-send' color='#636363' size="md" ></box-icon></a>
+    <a href="{{ .Site.Params.facebookLink }}"><box-icon name='facebook' type='logo' color='#636363' size="md" ></box-icon></a>
+    <a href="{{ .Site.Params.instagramLink }}"><box-icon name='instagram' type='logo' color='#636363' size="md" ></box-icon></a>
+    <a href="{{ .Site.Params.twitterLink }}"><box-icon name='twitter' type='logo' color='#636363' size="md" ></box-icon></a>
+    <a href="{{ .Site.Params.soundcloudLink }}"><box-icon name='soundcloud' type='logo' color='#636363' size="md" ></box-icon></a>
+  </div>
   <span>&copy; {{ now.Year }} <a href="{{ "" | absURL }}">{{ .Site.Title }}</a></span>
 <!--   <span>&middot;</span>
   <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
