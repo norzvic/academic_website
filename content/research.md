@@ -12,7 +12,7 @@ Nie, Ke. 2021. "Disperse and Preserve the Perverse: Computing How Hip-Hop Censor
 Nie, Ke. A study of the impact of economic incentives on cultural creativity. (R&R at *[Chinese Sociological Review](https://www.tandfonline.com/toc/mcsa20/current)*)
 [[Request]](mailto:knie@ucsd.edu)
 
-Nie, Ke. A study of why musicians support music censorship. (Proposal accepted by *[Chinese Journal of Sociology](https://journals.sagepub.com/home/chs)*)
+Nie, Ke. A study of why musicians support music censorship. (Proposal accepted by *[Journal of Chinese Sociology](https://journals.sagepub.com/home/chs)*)
 [[Request]](mailto:knie@ucsd.edu)
 
 Nie, Ke. A study of how cultural consumption as strategy of compensating for cultural capital. (Preparing for submission)

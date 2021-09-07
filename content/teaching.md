@@ -12,23 +12,25 @@ draft: false
 
 ##### University of California, San Diego
 
-* SP20-21 Gender and Work
+* Science, Technology, and Society (SS19-20, SS20-21)
 
-* WI20-21 Law and Society
+* Gender and Work (SP20-21)
 
-* FA20-21 Classical Sociological Theory
+* Law and Society (WI20-21)
 
-* SS19-20 Science, Technology, and Society
+* Classical Sociological Theory (FA20-21)
 
-* AY19-20 Sixth College Writing Program: Culture, Art, and Technology
+* Practical Writing (WI19-20, SP19-20)
 
-* SP18-19 Social Inequality and Social Policy
+* American Popular Music History (FA19-20)
 
-* WI18-19 Economy and Society
+* Social Inequality and Social Policy (SP18-19)
+
+* Economy and Society (WI18-19)
 
 ##### Peking University
 
-* FA12-13 Introduction to Journalism
+* Introduction to Journalism (FA12-13)
 
 ### Research Assistant
 
