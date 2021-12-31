@@ -12,25 +12,29 @@ draft: false
 
 ##### University of California, San Diego
 
-* Science, Technology, and Society (SS19-20, SS20-21)
+* Quantitative Methods Graduate Consultant: AY21-22
 
-* Gender and Work (SP20-21)
+* Quantitative Methods I (Graduate-level): WI21-22
 
-* Law and Society (WI20-21)
+* Science, Technology, and Society: SS19-20, SS20-21
 
-* Classical Sociological Theory (FA20-21)
+* Gender and Work: SP20-21
 
-* Practical Writing (WI19-20, SP19-20)
+* Law and Society: WI20-21
 
-* American Popular Music History (FA19-20)
+* Classical Sociological Theory: FA20-21
 
-* Social Inequality and Social Policy (SP18-19)
+* Practical Writing: WI19-20, SP19-20
 
-* Economy and Society (WI18-19)
+* American Popular Music History: FA19-20
+
+* Social Inequality and Social Policy: SP18-19
+
+* Economy and Society: WI18-19
 
 ##### Peking University
 
-* Introduction to Journalism (FA12-13)
+* Introduction to Journalism: FA12-13
 
 ### Research Assistant
 
