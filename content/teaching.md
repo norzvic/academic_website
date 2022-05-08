@@ -14,7 +14,7 @@ draft: false
 
 * Quantitative Methods Graduate Consultant: AY21-22
 
-* Quantitative Methods I (Graduate-level): WI21-22
+* Quantitative Methods I & II (Graduate-level): WI21-22, SP21-22
 
 * Science, Technology, and Society: SS19-20, SS20-21
 

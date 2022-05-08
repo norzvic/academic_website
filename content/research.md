@@ -9,11 +9,13 @@ Nie, Ke. 2021. "Disperse and Preserve the Perverse: Computing How Hip-Hop Censor
 
 ### Working Papers
 
-Nie, Ke. A study of the impact of economic incentives on cultural creativity. (R&R at *[Chinese Sociological Review](https://www.tandfonline.com/toc/mcsa20/current)*)
+Nie, Ke. A study of the impact of economic incentives on cultural creativity. (Conditionally accepted at *[Chinese Sociological Review](https://www.tandfonline.com/toc/mcsa20/current)*)
 [[Request]](mailto:knie@ucsd.edu)
 
 Nie, Ke. A study of why musicians support music censorship. (Proposal accepted by *[Journal of Chinese Sociology](https://journals.sagepub.com/home/chs)*)
 [[Request]](mailto:knie@ucsd.edu)
+
+Nie, Ke, and Thomas Medvetz. A study of an artistic debate before the Chinese Cultural Revolu- tion. (Preparing for submission)
 
 Nie, Ke. A study of how cultural consumption as strategy of compensating for cultural capital. (Preparing for submission)
 [[Abstract]](/posts/cultural_consumption_strategy/) [[Request]](mailto:knie@ucsd.edu)
@@ -22,8 +24,8 @@ Nie, Ke. A study of how cultural consumption as strategy of compensating for cul
 
 ### Work in Progress
 
-Nie, Ke. "Does the Internet Foster Cultural Diversity and Creativity? A Mixed-method Comparative Study of the Music Markets in the US, Japan, and China."
+Nie, Ke. ”Inaccurate Prediction or Genre Evolution? Rethinking Genre Classification Accuracy.”
 
-Zhang, Bolun, and Ke Nie. "Homeownership and Social Reproduction: New Evidences from PTA Data."
+Nie, Ke. ”Machine Learning and Cultural Classifications.”
 
-Nie, Ke, and Thomas Medvetz. "'Debussy Affair' in China: Music and Politics before the Chinese Cultural Revolution."
+Zhang, Bolun, and Ke Nie. ”Homeownership and Social Reproduction: New Evidences from PTA Data.”

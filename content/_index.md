@@ -8,7 +8,7 @@ draft: false
 
 Hi, my name is Ke Nie and I am a [doctoral candidate in sociology at the University of California, San Diego](http://sociology.ucsd.edu/people/graduate-students/ke-nie.html). I use both quantitative and qualitative methods to study cultural markets and cultural policies around the world with a specific focus on music. For example, my latest publication at [Poetics](https://www.journals.elsevier.com/poetics) uses Music Information Retrieval (MIR) algorithms and topic models to investigate [how censorship impacted music genres in China](/posts/hiphop_censorship_computational/). I am now focusing on my dissertation project, which examines how creativity is organized, regulated, and practiced in the Chinese popular music industry in the wake of its extensive digitization.
 
-Before joining the doctoral program at UCSD, I worked as a news correspondent and later a freelance writer in China, writing for [Xinhua](http://www.xinhuanet.com/), [Caixin Weekly](http://weekly.caixin.com/), [The Paper](http://thepaper.cn/), [The Initium](http://theinitium.com/), [CNPolitics](http://cnpolitics.org/), and many other renowned media platforms. In my spare time, I also [write and produce music for music videos, commercials, and fun](https://soundcloud.com/keniejimiproject/).
+Before joining the doctoral program at UCSD, I worked as a news correspondent and later a freelance writer in China, writing for [Xinhua](http://www.xinhuanet.com/), [Caixin Weekly](http://weekly.caixin.com/), [The Paper](http://thepaper.cn/), [The Initium](http://theinitium.com/), [CNPolitics](http://cnpolitics.org/), and many other renowned media platforms. In my spare time, I also [write and produce music for music videos, commercials, and for fun](https://soundcloud.com/keniejimiproject/).
 
 Feel free to reach out to me at knie[at]ucsd.edu.
 
@@ -22,5 +22,5 @@ Feel free to reach out to me at knie[at]ucsd.edu.
 
 | Research Interests |
 |---|
-| Sociology of Culture, Economic Sociology, Political Sociology, Organizations, Media Platforms, Computational Social Science | 
+| Sociology of Culture, Economic Sociology, Organizations, Creativity & Innovation, Creative Industries, Digital Platforms, Computational Social Science | 
 
