@@ -5,6 +5,8 @@ draft: false
 ---
 
 ### Publications
+Nie, Ke.  "Bowing to Five Pecks of Rice: How Online Monetization Programs Shape Artistic Novelty." Forthcoming in *Chinese Sociological Review*. [[Abstract]](/posts/monetization_novelty/)
+
 Nie, Ke. 2021. "Disperse and Preserve the Perverse: Computing How Hip-Hop Censorship Changed Music Genres in China." *Poetics* 88:101590. Part of Special Issue: [Measure Mohr Culture](https://www.sciencedirect.com/journal/poetics/vol/88/suppl/C), edited by Clayton Childress and Craig Rawlings. [[Abstract]](/posts/hiphop_censorship_computational/) [[Full article (OA)]](https://www.sciencedirect.com/science/article/pii/S0304422X21000802?dgcid=rss_sd_all#sec0012). 
 
 ### Working Papers
