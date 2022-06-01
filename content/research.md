@@ -3,28 +3,29 @@ title: "Research"
 date: 2020-12-22T19:56:42-08:00
 draft: false
 ---
+### Dissertation
+**Steer the Sound: Organizing, Governing, and Practicing Music Creativity in China.**  
+* Funded by American Sociological Association Doctoral Dissertation Research Improvement Grant, Chiang Ching-kuo Foundation Doctoral Dissertation Fellowship
+* Honorable Mention, Geoffrey Tootell Mathematical Sociology Outstanding Dissertation-in-Progress Award, American Sociological Association
 
-### Publications
+
+### Peer-Reviewed Article
 Nie, Ke.  "Bowing to Five Pecks of Rice: How Online Monetization Programs Shape Artistic Novelty." Forthcoming in *Chinese Sociological Review*. [[Abstract]](/posts/monetization_novelty/)
 
 Nie, Ke. 2021. "Disperse and Preserve the Perverse: Computing How Hip-Hop Censorship Changed Music Genres in China." *Poetics* 88:101590. Part of Special Issue: [Measure Mohr Culture](https://www.sciencedirect.com/journal/poetics/vol/88/suppl/C), edited by Clayton Childress and Craig Rawlings. [[Abstract]](/posts/hiphop_censorship_computational/) [[Full article (OA)]](https://www.sciencedirect.com/science/article/pii/S0304422X21000802?dgcid=rss_sd_all#sec0012). 
+* Winner of Communication, Information Technologies, and Media Section Best Student Paper Award, American Sociological Association
+* Early Career Workshop Award, Society for the Advancement of Socio-Economics
 
-### Working Papers
 
-Nie, Ke. A study of why musicians support music censorship. (Proposal accepted by *[Journal of Chinese Sociology](https://journals.sagepub.com/home/chs)
-[[Request]](mailto:knie@ucsd.edu)
+### Manuscripts Under-Review
 
-Nie, Ke, and Thomas Medvetz. A study of an artistic debate before the Chinese Cultural Revolution. (Preparing for submission) [[Request]](mailto:knie@ucsd.edu)
-
-Nie, Ke. A study of how cultural consumption as strategy of compensating for cultural capital. (Preparing for submission)
-[[Abstract]](/posts/cultural_consumption_strategy/) [[Request]](mailto:knie@ucsd.edu)
+Nie, Ke. A study of how inaccurate prediction of machine-learning-enpowered music genre classifiers may indicate genre evolution. (Submitted for review) [[Request]](mailto:knie@ucsd.edu)
 
 <br/>
 
 ### Work in Progress
 
-Nie, Ke. ”Inaccurate Prediction or Genre Evolution? Rethinking Genre Classification Accuracy.”
+Nie, Ke, and Thomas Medvetz. "Debussy Affair: Note on Euphemized Intervention of Intellectuals." (Preparing for submission) [[Request]](mailto:knie@ucsd.edu)
 
-Nie, Ke. ”Machine Learning and Cultural Classifications.”
+Nie, Ke. "How cultural consumption works as strategy of compensating for cultural capital." (Preparing for submission) [[Request]](mailto:knie@ucsd.edu)
 
-Zhang, Bolun, and Ke Nie. ”Homeownership and Social Reproduction: New Evidences from PTA Data.”
