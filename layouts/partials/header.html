@@ -86,11 +86,12 @@
     <script>
       setTheme();
     </script>
-    <header class="header">
+    <header class="header" style="background: rgba(61, 61, 61, 0.88)">
       <nav class="nav">
       <!-- <nav class="nav fixed-top"> -->
         {{- if .IsHome }}
-        <h1 class="logo"><a href="{{ "" | absURL }}">{{ .Site.Title }}</a></h1>
+        <!-- <h1 class="logo"><a href="{{ "" | absURL }}">{{ .Site.Title }}</a></h1> -->
+        <p class="logo"><a href="{{ "" | absURL }}">{{ .Site.Title }}</a></p>
         {{- else }}
         <p class="logo"><a href="{{ "" | absURL }}">{{ .Site.Title }}</a></p>
         {{- end }}

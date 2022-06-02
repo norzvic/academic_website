@@ -6,7 +6,7 @@ draft: false
 
 ### Award
 
-* AY 19-20 [Outstanding TA of the Year](https://sociology.ucsd.edu/graduate/grad-announcements.html), Sixth College Writing Program (Culture, Art, and Technology), University of California, San Diego.
+* AY 19-20 [Outstanding TA of the Year](/files/Nie_SixthCollegeTeachingAward.pdf), Sixth College Writing Program (Culture, Art, and Technology), University of California, San Diego.
 
 ### Teaching Assistant
 

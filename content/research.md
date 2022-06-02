@@ -10,22 +10,22 @@ draft: false
 
 
 ### Peer-Reviewed Article
-Nie, Ke.  "Bowing to Five Pecks of Rice: How Online Monetization Programs Shape Artistic Novelty." Forthcoming in *Chinese Sociological Review*. [[Abstract]](/posts/monetization_novelty/)
+__Nie, Ke__.  "Bowing to Five Pecks of Rice: How Online Monetization Programs Shape Artistic Novelty." Forthcoming in *Chinese Sociological Review*. [[Abstract]](/posts/monetization_novelty/)
 
-Nie, Ke. 2021. "Disperse and Preserve the Perverse: Computing How Hip-Hop Censorship Changed Music Genres in China." *Poetics* 88:101590. Part of Special Issue: [Measure Mohr Culture](https://www.sciencedirect.com/journal/poetics/vol/88/suppl/C), edited by Clayton Childress and Craig Rawlings. [[Abstract]](/posts/hiphop_censorship_computational/) [[Full article (OA)]](https://www.sciencedirect.com/science/article/pii/S0304422X21000802?dgcid=rss_sd_all#sec0012). 
-* Winner of Communication, Information Technologies, and Media Section Best Student Paper Award, American Sociological Association
-* Early Career Workshop Award, Society for the Advancement of Socio-Economics
+__Nie, Ke__. 2021. "Disperse and Preserve the Perverse: Computing How Hip-Hop Censorship Changed Music Genres in China." *Poetics* 88:101590. Part of Special Issue: [Measure Mohr Culture](https://www.sciencedirect.com/journal/poetics/vol/88/suppl/C), edited by Clayton Childress and Craig Rawlings. [[Abstract]](/posts/hiphop_censorship_computational/) [[Full article (OA)]](https://www.sciencedirect.com/science/article/pii/S0304422X21000802?dgcid=rss_sd_all#sec0012). 
+* Winner of [Communication, Information Technologies, and Media Section Best Student Paper Award]((https://citams.org/citasa-awards/)), American Sociological Association
+* [Early Career Workshop Award](https://sase.org/workshop/2021-workshop/#participants), Society for the Advancement of Socio-Economics
 
 
-### Manuscripts Under-Review
+### Manuscript Under Review
 
-Nie, Ke. A study of how inaccurate prediction of machine-learning-enpowered music genre classifiers may indicate genre evolution. (Submitted for review) [[Request]](mailto:knie@ucsd.edu)
+__Nie, Ke__. A study of how inaccurate prediction of machine-learning-enpowered music genre classifiers may indicate genre evolution. (Submitted for review) [[Request]](mailto:knie@ucsd.edu)
 
 <br/>
 
 ### Work in Progress
 
-Nie, Ke, and Thomas Medvetz. "Debussy Affair: Note on Euphemized Intervention of Intellectuals." (Preparing for submission) [[Request]](mailto:knie@ucsd.edu)
+__Nie, Ke__, and Thomas Medvetz. "Debussy Affair: Note on Euphemized Intervention of Intellectuals." (Preparing for submission) [[Request]](mailto:knie@ucsd.edu)
 
-Nie, Ke. "How cultural consumption works as strategy of compensating for cultural capital." (Preparing for submission) [[Request]](mailto:knie@ucsd.edu)
+__Nie, Ke__. "How cultural consumption works as strategy of compensating for cultural capital." (Preparing for submission) [[Request]](mailto:knie@ucsd.edu)
 

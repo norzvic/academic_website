@@ -6,19 +6,23 @@ draft: false
 
 ###
 
-My name is Ke Nie, and I am a [doctoral candidate in sociology](http://sociology.ucsd.edu/people/graduate-students/ke-nie.html) at the University of California, San Diego. I use both quantitative and qualitative methods to study cultural markets and cultural policies around the world with a specific focus on music. For example, my latest publication at *Poetics* uses Music Information Retrieval (MIR) algorithms and topic models to investigate [how censorship impacted music genres in China](/posts/hiphop_censorship_computational/). My dissertation project, funded by the American Sociological Association Doctoral Dissertation Research Improvement Grant (ASA DDRIG), among others, examines how creativity is organized, regulated, and practiced in the Chinese popular music industry in the wake of its extensive digitization.
+My name is Ke Nie, and I am a [Ph.D. candidate in sociology](http://sociology.ucsd.edu/people/graduate-students/ke-nie.html) at the University of California, San Diego, with a [Specialization in Computational Social Science](https://css.ucsd.edu/phd-specialization/index.html). I am a cultural and economic sociologist who uses computational methods, among others, to study culture, creativity, and classification.
 
-Before joining the doctoral program at UCSD, I worked as a news correspondent and later a freelance writer in China, writing for [Xinhua](http://www.xinhuanet.com/), [Caixin Weekly](http://weekly.caixin.com/), [The Paper](http://thepaper.cn/), [The Initium](http://theinitium.com/), [CNPolitics](http://cnpolitics.org/), and many other renowned media platforms. In my spare time, I also [write and produce music for music videos, commercials, and for fun](https://soundcloud.com/keniejimiproject/).
+My research focuses on what I call "the political economy of cultural creativity," investigating how cultural creativity is shaped by economic incentives and political interventions. My recent works primarily untilize computational tools to find better ways of measuring creativity and its change. For example, my [award-winning](https://citams.org/citasa-awards/) article at __*Poetics*__ uses Music Information Retrieval (MIR), neural networks, and topic modeling algorithms to study [how censorship reshaped music genres in China](/posts/hiphop_censorship_computational/). In a similar vein, my forthcoming article at __*Chinese Sociological Review*__ reveals [how artistic innovation is curbed by monetization programs](/posts/monetization_novelty/).
+
+Building upon these works, my dissertation project examines how creativity is organized, regulated, and practiced in the Chinese popular music industry in the wake of its extensive digitization. The project is funded by the American Sociological Association Doctoral Dissertation Research Improvement Grant (ASA DDRIG) and [Chiang Ching-kuo Foundation](http://www.cckf.org/en/news/2022052303), among others, and it was awarded the Honorable Mention for the Geoffrey Tootell Mathematical Sociology Outstanding Dissertation-in-Progress Award at the American Sociological Association.
+
+Before joining the doctoral program at UCSD, I worked as a news correspondent and later a freelance author in China, writing for [Xinhua](http://www.xinhuanet.com/), [Caixin Weekly](http://weekly.caixin.com/), [The Paper](http://thepaper.cn/), [The Initium](http://theinitium.com/), [CNPolitics](http://cnpolitics.org/), and many other renowned media platforms. In my spare time, I also [write and produce music](https://soundcloud.com/keniejimiproject/) for music videos, commercials, and for fun.
 
 Feel free to reach out to me at knie[at]ucsd.edu.
 
 | Education |
 |---|
-| 2023 (exp.), PhD in Sociology, University of California, San Diego |
-| 2021, MA in Sociology, University of California, San Diego |
-| 2014, MA in Journalism, Peking University |
-| 2012, BA in German Language and Literature, Peking University |
-| 2012, BA in Economics, Peking University |
+| 2023 (exp.), Ph.D. in Sociology, University of California, San Diego |
+| 2021, M.A. in Sociology, University of California, San Diego |
+| 2014, M.A. in Journalism, Peking University |
+| 2012, B.A. in German Language and Literature, Peking University |
+| 2012, B.A. in Economics, Peking University |
 
 | Research Interests |
 |---|
