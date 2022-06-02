@@ -11,17 +11,17 @@ type: "mylayout"
 
 我的学术经历比较丰富：2012年在北京大学[外国语学院](https://sfl.pku.edu.cn/index.htm)和[国家发展研究院](https://nsd.pku.edu.cn/)获得了德语语言文学和经济学双学士之后，我转到[新闻与传播学院](http://sjc.pku.edu.cn/)攻读新闻学，并在2014年获得新闻学学术型硕士学历。社会学算是我的第四个“专业”，但我的研究兴趣始终围绕着政治经济环境下的文化生产与消费这一主题。
 
-在攻读博士之前，我在中国做了一段时间的通讯社记者以及自由撰稿人，文章刊载于[新华社](http://www.xinhuanet.com/)、[人民日报](http://people.com.cn/)、[财新周刊](http://weekly.caixin.com/)、[澎湃新闻](http://thepaper.cn/)、[端传媒](http://theinitium.com/)、[政见](http://cnpolitics.org/)等著名华文媒体平台。我还曾是北京大学十佳歌手、吉他协会会长，并拥有自己的音乐工作室，你可以在[网易云音乐](https://music.163.com/#/artist?id=12206515)、[虾米音乐](https://emumo.xiami.com/u/1712567)、[豆瓣音乐](https://site.douban.com/jimiproject/)以及[SoundCloud](https://soundcloud.com/keniejimiproject)找到我的一些原创音乐以及编曲作品。
+在攻读博士之前，我在中国做了一段时间的通讯社记者以及自由撰稿人，文章刊载于[新华社](http://www.xinhuanet.com/)、[人民日报](http://people.com.cn/)、[财新周刊](http://weekly.caixin.com/)、[澎湃新闻](http://thepaper.cn/)、[端传媒](http://theinitium.com/)、[政见](http://cnpolitics.org/)等著名华文媒体平台。我还曾是北京大学十佳歌手、吉他协会会长，并拥有自己的音乐工作室，你可以在[网易云音乐](https://music.163.com/#/artist?id=12206515)、[豆瓣音乐](https://site.douban.com/jimiproject/)以及[SoundCloud](https://soundcloud.com/keniejimiproject)找到我的一些原创音乐以及编曲作品。
 
 欢迎通过我的邮箱联系我：knie[at]ucsd.edu。
 
 | 教育背景 |
 |---|
-| 2023（计划）, 社会学博士, 加州大学圣迭戈分校 |
-| 2021, 社会学硕士, 加州大学圣迭戈分校 |
-| 2014, 新闻学硕士, 北京大学 |
-| 2012, 德语语言文学学士, 北京大学 |
-| 2012, 经济学学士, 北京大学 |
+| 2023（计划），社会学博士，加州大学圣迭戈分校 |
+| 2021，社会学硕士，加州大学圣迭戈分校 |
+| 2014，新闻学硕士，北京大学 |
+| 2012，德语语言文学学士，北京大学 |
+| 2012，经济学学士，北京大学 |
 
 | 研究兴趣 |
 |---|
