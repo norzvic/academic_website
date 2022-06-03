@@ -9,7 +9,7 @@ type: "mylayout"
 
 我叫聂可，现在在加州大学圣迭戈分校（University of California, San Diego）攻读[社会学博士](https://sociology.ucsd.edu/people/graduate-students/ke-nie.html)并辅修[计算社会科学专业](https://css.ucsd.edu/phd-specialization/index.html)。
 
-我的研究兴趣可以用4个C来概括：文化（culture），创新（creativity），分类（classification），以及计算科学方法（computational methods）。具体来说，我主要运用用计算科学的方法，来研究经济激励和政治干预是如何塑造人们在文化领域里的创新实践和创新成果，并建构为不同类别和层次上的创新能力的——我所谓之”文化创新的政治经济学“。例如，我发表在[__*Poetics*__](https://www.journals.elsevier.com/poetics)的一篇[获奖](https://citams.org/citasa-awards/)文章运用音乐信息检索（Music Information Retrieval）、神经网络、结构主题模型等一些计算科学方法来研究[文化审查是如何改变了中国的流行音乐风格分类的](/posts/hiphop_censorship_computational/)。我即将发表在 __*Chinese Sociological Review*__ 的一篇文章则用类似的方法分析了[经济激励是如何阻碍文化创新的](/posts/monetization_novelty/)。
+我的研究兴趣可以用4个C来概括：文化（culture），创新（creativity），分类（classification），以及计算科学方法（computational methods）。具体来说，我主要运用用计算科学的方法，来研究经济激励和政治干预是如何塑造人们在文化领域里的创新实践和创新成果，并建构为不同类别和层次上的创新能力的——我所谓之”文化创新的政治经济学“。例如，我发表在 __*Poetics*__ 的一篇[获奖](https://citams.org/citasa-awards/)文章运用音乐信息检索（Music Information Retrieval）、神经网络、结构主题模型等一些计算科学方法来研究[文化审查是如何改变了中国的流行音乐风格分类的](/posts/hiphop_censorship_computational/)。我即将发表在 __*Chinese Sociological Review*__ 的一篇文章则用类似的方法分析了[经济激励是如何阻碍文化创新的](/posts/monetization_novelty/)。
 
 基于以上研究，我的博士论文将会关注中国音乐产业数字化背景下商业激励、文化政策和组织决策是如何影响音乐生产的创新性的。我的博士论文受到了美国社会学协会博士论文促进奖（ASA DDRIG）的资助，并获得了美国社会学协会数学社会学分会最佳博士论文进程奖（Dissertation-in-Progress）的荣誉提名（Honorable Mention）。
 
