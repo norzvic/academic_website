@@ -10,9 +10,9 @@ draft: false
 
 
 ### Peer-Reviewed Article
-__Nie, Ke__.  "Bowing to Five Pecks of Rice: How Online Monetization Programs Shape Artistic Novelty." Forthcoming in *Chinese Sociological Review*. [[Abstract]](/posts/monetization_novelty/)
+__Nie, Ke__.  "Bowing to Five Pecks of Rice: How Online Monetization Programs Shape Artistic Novelty." Forthcoming in *Chinese Sociological Review*. [[Abstract]](/posts/monetization_novelty/) [[Full article (OA)]](https://doi.org/10.1080/21620555.2022.2084606)
 
-__Nie, Ke__. 2021. "Disperse and Preserve the Perverse: Computing How Hip-Hop Censorship Changed Music Genres in China." *Poetics* 88:101590. Part of Special Issue: [Measure Mohr Culture](https://www.sciencedirect.com/journal/poetics/vol/88/suppl/C), edited by Clayton Childress and Craig Rawlings. [[Abstract]](/posts/hiphop_censorship_computational/) [[Full article (OA)]](https://www.sciencedirect.com/science/article/pii/S0304422X21000802?dgcid=rss_sd_all#sec0012). 
+__Nie, Ke__. 2021. "Disperse and Preserve the Perverse: Computing How Hip-Hop Censorship Changed Music Genres in China." *Poetics* 88:101590. Featured in Special Issue: [Measure Mohr Culture](https://www.sciencedirect.com/journal/poetics/vol/88/suppl/C), edited by Clayton Childress and Craig Rawlings. [[Abstract]](/posts/hiphop_censorship_computational/) [[Full article (OA)]](https://doi.org/10.1016/j.poetic.2021.101590). 
 * Winner of [Communication, Information Technologies, and Media Section Best Student Paper Award]((https://citams.org/citasa-awards/)), American Sociological Association
 * [Early Career Workshop Award](https://sase.org/workshop/2021-workshop/#participants), Society for the Advancement of Socio-Economics
 
