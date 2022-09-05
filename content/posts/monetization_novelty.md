@@ -7,7 +7,7 @@ draft: false
 
 #### Ke Nie, Department of Sociology, University of California, San Diego
 
-* Forthcoming in __*Chinese Sociological Review*__. Featured in Special Issue: Computational Social Science.
+* Published in __*Chinese Sociological Review*__ in 2022. Featured in Special Issue: Computational Social Science.
 
 [[Full article (OA)]](https://doi.org/10.1080/21620555.2022.2084606) [[Online Appendix]](/files/Nie_MonetizationNovelty_Appendices.pdf)
 
