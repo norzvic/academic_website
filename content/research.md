@@ -10,7 +10,7 @@ draft: false
 
 
 ### Peer-Reviewed Article
-__Nie, Ke__. Forthcoming. "Inaccurate Prediction or Genre Evolution? Rethinking Genre Classification." __*Proceedings of the 23rd International Society for Music Information R etrieval Conference*__. [[Abstract]](/posts/ismir_genre_evolution/)
+__Nie, Ke__. Forthcoming. "Inaccurate Prediction or Genre Evolution? Rethinking Genre Classification." __*Proceedings of the 23rd International Society for Music Information Retrieval Conference*__. [[Abstract]](/posts/ismir_genre_evolution/)
 
 __Nie, Ke__. 2022. "Bowing to Five Pecks of Rice: How Online Monetization Programs Shape Artistic Novelty." __*Chinese Sociological Review*__ (online first). [[Abstract]](/posts/monetization_novelty/) [[Full article (OA)]](https://doi.org/10.1080/21620555.2022.2084606)
 
