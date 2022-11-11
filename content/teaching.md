@@ -12,9 +12,13 @@ draft: false
 
 ##### University of California, San Diego
 
+* Computer Applications to Data Management in Sociology: WI22-23
+
+* Predicting the Future: FA22-23
+
 * Quantitative Methods Graduate Consultant: AY21-22
 
-* Quantitative Methods I & II (Graduate-level): WI21-22, SP21-22
+* Quantitative Methods I & II (Doctoral-level): WI21-22, SP21-22
 
 * Science, Technology, and Society: SS19-20, SS20-21
 

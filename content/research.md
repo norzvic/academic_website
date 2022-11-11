@@ -21,7 +21,7 @@ __Nie, Ke__. 2021. "Disperse and Preserve the Perverse: Computing How Hip-Hop Ce
 
 ### Manuscript Under Review
 
-__Nie, Ke__, and Thomas Medvetz. A sociological study of politics and artistic autonomy in 1960s China. (Under review in __*American Sociological Review*__) [[Request]](mailto:knie@ucsd.edu)
+__Nie, Ke__, and Thomas Medvetz. A sociological study of politics and artistic autonomy in 1960s China. (Under review in __*American Journal of Sociology*__) [[Request]](mailto:knie@ucsd.edu)
 
 <br/>
 
