@@ -8,11 +8,15 @@ draft: false
 
 * AY 19-20 [Outstanding TA of the Year](/files/Nie_SixthCollegeTeachingAward.pdf), Sixth College Writing Program (Culture, Art, and Technology), University of California, San Diego.
 
-### Teaching Assistant
+### Instructor
 
 ##### University of California, San Diego
 
 * Quantitative Research in Sociology with R: WI22-23 ([Syllabus](/files/UCSD_SOCI103M_syllabus.pdf))
+
+### Teaching Assistant
+
+##### University of California, San Diego
 
 * Predicting the Future: FA22-23
 
