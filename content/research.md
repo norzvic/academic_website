@@ -20,13 +20,13 @@ __Nie, Ke__. 2021. "Disperse and Preserve the Perverse: Computing How Hip-Hop Ce
 * [Early Career Workshop Award](https://sase.org/workshop/2021-workshop/#participants), Society for the Advancement of Socio-Economics
 
 
-### Manuscript Under Review
+[//]: # (### Manuscript Under Review)
 
-__Nie, Ke__, and Thomas Medvetz. A sociological study of politics and artistic autonomy in 1960s China. (Under review in __*American Journal of Sociology*__) [[Request]](mailto:knie@ucsd.edu)
-
-<br/>
+[//]: # ( <br/> )
 
 ### Work in Progress
+
+__Nie, Ke__, and Thomas Medvetz. A sociological study of politics and artistic autonomy in 1960s China. (Preparing for submission) [[Request]](mailto:knie@ucsd.edu)
 
 __Nie, Ke__. "How cultural consumption works as strategy of compensating for cultural capital." (Preparing for submission) [[Request]](mailto:knie@ucsd.edu)
 
