@@ -12,7 +12,7 @@ draft: false
 
 ##### University of California, San Diego
 
-* Quantitative Research in Sociology with R: WI22-23 ([Syllabus](/files/UCSD_SOCI103M_syllabus.pdf))
+* Quantitative Research in Sociology with R: WI22-23 ([Syllabus](/files/UCSD_SOCI103M_syllabus.pdf)) ([Course Projects](https://ucsd-soci103m.netlify.app/))
 
 ### Teaching Assistant
 
